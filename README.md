@@ -1,4 +1,4 @@
-# AC_char_am_nat_data
+# Ventral_coloration_with_countershading
 
 ## Overview
 
@@ -335,4 +335,7 @@ All analyses were performed using the following software.
 Running the scripts in numerical order reproduces all processed datasets, fitted statistical models, prediction datasets, and figures included in this repository.
 
 ---
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8a65306e2a5c20acd06facf8c0e43b91cae97c8e
