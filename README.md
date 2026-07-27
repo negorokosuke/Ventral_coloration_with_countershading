@@ -9,7 +9,7 @@ This repository contains all raw data, processed data, analysis scripts, statist
 # Repository Structure
 
 ```text
-AC_char_am_nat_data/
+Ventral_coloration_with_countershading/
 │
 ├── README.md
 ├── 01_data/
